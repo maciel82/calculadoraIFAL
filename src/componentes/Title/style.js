@@ -7,9 +7,16 @@ const styles = StyleSheet.create({
         padding:10
     },
     textTitle:{
-        color:"#FF0043",
-        fontSize:24,
-        fontWeight:"bold"
+        color:"#1E90FF",
+        fontSize:34,
+        fontWeight:"bold",
+        marginTop: 16,
+        paddingVertical: 8,
+        paddingHorizontal: 4,
+        borderWidth: 6,
+        borderColor: '#1E90FF',
+        borderRadius: 6,
+        textAlign: 'center'
     }
   });
 
