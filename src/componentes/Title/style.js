@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
         fontWeight:"bold",
         marginTop: 16,
         paddingVertical: 8,
-        paddingHorizontal: 4,
+        paddingHorizontal: 8,
         borderWidth: 6,
         borderColor: '#1E90FF',
         borderRadius: 6,
